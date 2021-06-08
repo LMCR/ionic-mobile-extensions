@@ -1,0 +1,36 @@
+{
+    "name": "ionic-mobile-extensions",
+    "displayName": "Ionic Mobile Extensions",
+    "description": "Required extensions for Mobile Development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "CoenraadS.bracket-pair-colorizer-2",
+        "msjsdiag.debugger-for-edge",
+        "dbaeumer.vscode-eslint",
+        "Angular.ng-template",
+        "fivethree.vscode-ionic-snippets",
+        "danielehrhardt.ionic3-vs-ionView-snippets",
+        "johnpapa.Angular2",
+        "msjsdiag.debugger-for-chrome",
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "streetsidesoftware.code-spell-checker",
+        "esbenp.prettier-vscode",
+        "vscode-icons-team.vscode-icons",
+        "4tron.ionic-docs",
+        "donjayamanne.git-extension-pack",
+        "anseki.vscode-color",
+        "ms-dotnettools.csharp",
+        "ecmel.vscode-html-css",
+        "HookyQR.beautify",
+        "ms-mssql.mssql",
+        "Zignd.html-css-class-completion",
+        "VisualStudioExptTeam.vscodeintellicode"
+    ]
+}
